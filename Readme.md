@@ -1,8 +1,5 @@
 TX Link:
 https://explorer.solana.com/tx/gkRirbinWVFvaxG1nqgMaBaiUskytSYTYNaHL5qLm8Gc6GDsTTmNb34HCXW5FdBSbnZG5maooukwKKhhHskA5KC?cluster=devnet
-Here’s a clearer and more polished version of your submission:
-
----
 
 # Bridge to Turbin3 Project Submission  
 
